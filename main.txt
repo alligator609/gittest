@@ -1,0 +1,4 @@
+git --version // for git version
+
+git init //Initialized empty Git repository
+
