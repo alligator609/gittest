@@ -19,3 +19,5 @@ git checkout <branch-name> // for selecting branch for editing.
 git branch -m <new_name> // for changing branch name but u have to select branch first.
 
 
+
+
