@@ -2,12 +2,15 @@ git --version // for git version
 
 git init //Initialized empty Git repository
 
- git add * // added all file
+git add * // added all file
 
- git commit -m "first commit" // commit code with message
+git commit -m "first commit" // commit code with message
 
- git branch -M main //create main branch with name main
+git branch -M main //create main branch with name main
 
- git remote add origin <remote reposotory link> // added remote reposotory as origin 
+git remote add origin <remote reposotory link> // added remote reposotory as origin 
 
-  git push -u origin main // push commited file to remote reposotory
+git push -u origin main // push commited file to remote reposotory
+
+git merge <branch-name> // before merge u must commit changes and goto main branch
+
